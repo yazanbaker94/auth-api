@@ -1,4 +1,4 @@
-PULL REQUEST: https://github.com/yazanbaker94/basic-auth/pull/1
+PULL REQ: https://github.com/yazanbaker94/auth-api/pull/2
 
 DEPLOYED VERSION ON HEROKU: https://basic-auth-yazann.herokuapp.com/signup
 
