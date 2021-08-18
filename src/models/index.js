@@ -8,7 +8,7 @@ const userModel = require('./users.js');
 
 
 
-const DATABASE_URL = process.env.DATABASE_URL || "postgres://uytoiujwtcdayz:b5f5fbdd6d371b7e487a7419ee678f60fce994a09456922b991ba96fc563e461@ec2-34-251-245-108.eu-west-1.compute.amazonaws.com:5432/d9flft0hi75uuc" ;
+const DATABASE_URL = process.env.DATABASE_URL || 'postgres://uytoiujwtcdayz:b5f5fbdd6d371b7e487a7419ee678f60fce994a09456922b991ba96fc563e461@ec2-34-251-245-108.eu-west-1.compute.amazonaws.com:5432/d9flft0hi75uuc' ;
 
 let sequelizeOptions = {
   dialectOptions: {
